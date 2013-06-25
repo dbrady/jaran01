@@ -298,3 +298,9 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+ul.navbar li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
